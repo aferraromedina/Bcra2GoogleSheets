@@ -21,6 +21,7 @@ Obtiene la lista completa de series y variables principales publicadas por el BC
 Uso en celda:
 =principalesVariables()
 
+![image](https://github.com/user-attachments/assets/4c858c35-1ae7-4c2f-9e87-3443ed523814)
 
 ### serieHistorica(identificador, fechaDesde, fechaHasta)
 Obtiene los valores históricos de una serie o variable principal para un rango de fechas específico.
@@ -32,6 +33,8 @@ Parámetros:
 
 Uso en celda:
 =serieHistorica(1, "2023-01-01", "2023-12-31")
+
+![image](https://github.com/user-attachments/assets/65fd5a6c-7c39-4aac-9b17-46ecae5d3260)
 
 ## Notas
 - Las funciones requieren conexión a internet para acceder a la API del BCRA
